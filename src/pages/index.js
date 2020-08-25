@@ -56,8 +56,7 @@ const HomeIndex = () => {
 
           <ul className="actions">
             <li>
-              <a href="#" className="button">
-                Full Portfolio
+              <a href="https://github.com/BlakeDavis28" target="_blank" className="icon fa-github"> You can find each project on my Github
               </a>
             </li>
           </ul>
